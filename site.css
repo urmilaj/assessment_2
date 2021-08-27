@@ -1,0 +1,15 @@
+body {
+    background-color: #F3F1F5;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 3em;
+    margin-left: 50px;
+}
+
+form {
+    margin-left: 50px;
+    font-family: monospace;
+    font-size: 1.5em;
+}
